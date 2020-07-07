@@ -1,0 +1,118 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.custom-banner-1, .container{
+    margin-bottom: 100px;
+}
+
+.custom-nav{
+    background-color: rgb(200, 226, 205);
+   
+}
+
+#logo{
+    width: 35%;
+    padding-left: 100px;
+}
+
+.nav-item a{
+margin-right: 35px;
+}
+
+.btn-nav{
+    width: 100px;
+    border-radius: 25px;
+    color: #fff;
+   }
+   .custom-banner-1{
+       background-color: rgb(200, 226, 205);
+   }
+
+   .custom-banner-1 p:first-child{
+       color: orangered;
+   }
+   .custom-banner-1 span{
+       color:green ;
+   }
+
+   .custom-banner-1 img{
+   padding: 50px 50px 0px 0px;
+    width: 100%;
+   }
+
+   .btn-banner {
+    width: 150px;
+    border-radius: 25px;
+    color: #fff;
+   }
+
+   .banner-text{
+       padding-left: 100px;
+   }
+
+   .icon-bg img{
+     padding: 10px;
+    width: 40%;
+   }
+
+   .icon-bg{
+       border: none;
+     margin: 8px;
+       background-color: rgb(246, 250, 247);
+       border-radius: 10px;
+   }
+
+   .shadow-icon img{
+    padding: 10px;
+    width: 40%;
+    margin: 8px;
+   }
+
+   .custom-card-shadow{
+       border: none;
+       box-shadow: 1px 11px 20px -6px rgba(0,0,0,0.28);
+   }
+
+   .shadow-icon{
+    border: none;
+   
+       background-color: #fff;
+       box-shadow: 1px 11px 20px -6px rgba(0,0,0,0.28);
+       border-radius: 10px;
+   }
+
+   .calender-icon{
+       display: flex;
+      margin-top: 40px;
+     justify-content: space-around;
+    
+
+   }
+   .calender-icon p{
+       padding: 5px;
+       margin-bottom: -6px;
+   }
+   .calender-icon img {
+      
+       width: 10%;
+   }
+
+
+   .testimonial-conta h1{
+       margin-bottom: 60px;
+   }
+
+   .testimonial-conta img {
+     
+  
+    
+         width: 15%;
+   }
+   .testimonial-conta p{
+       padding-left: 40px;
+       max-width: 50%;
+   }
+
+   
